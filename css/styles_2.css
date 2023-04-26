@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(204, 236, 249);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3 {
+    color: rgb(86, 86, 86);
+}
+
+.content {
+    border: 1px solid;
+    margin: 15px;
+    padding: 10px 30px;
+}
+
+.top-content {
+    margin: auto;
+    width: 50%;
+}
+
+.header {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
